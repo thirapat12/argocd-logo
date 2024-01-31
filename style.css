@@ -1,0 +1,33 @@
+body{
+    background: black;
+}
+/* used to set a different logo */
+.nav-bar__logo img {
+    content: url(https://e7.pngegg.com/pngimages/708/235/png-clipart-digital-marketing-search-engine-optimization-advertising-social-media-web-design-ais-web-design-search-engine-optimization.png);
+}
+.top-bar{
+    background: #232222;
+}
+.top-bar__breadcrumbs{
+    color: white;
+}
+.filters-group__panel{
+    background-color: black;
+    color: white;
+}
+.filter{
+    background-color: #232222;
+    color: white;
+}
+.filter__item{
+    background-color: #232222;
+    color: white;
+}
+.applications-list__entry{
+    background: #232222;
+    color: white;
+}
+
+.nav-bar__logo img {
+    content: url(https://e7.pngegg.com/pngimages/708/235/png-clipart-digital-marketing-search-engine-optimization-advertising-social-media-web-design-ais-web-design-search-engine-optimization.png);
+}
