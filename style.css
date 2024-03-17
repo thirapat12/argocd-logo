@@ -1,3 +1,9 @@
-.sidebar {
-  background: linear-gradient(to bottom, #999, #777, #333, #222, #111);
+.login .argo__logo {
+    background-image: url(https://w7.pngwing.com/pngs/401/951/png-transparent-devops-software-developer-agile-software-development-software-testing-puppet-icon-devops-logo-text-logo-engineering.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-height: 200px;
+    margin: auto;
+    background-position: center;
+    height: 50vh;
 }
