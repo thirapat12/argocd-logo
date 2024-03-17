@@ -2,9 +2,9 @@ body{
     background: black;
 }
 /* used to set a different logo */
-.nav-bar__logo img {
+/* .nav-bar__logo img {
     content: url(https://e7.pngegg.com/pngimages/708/235/png-clipart-digital-marketing-search-engine-optimization-advertising-social-media-web-design-ais-web-design-search-engine-optimization.png);
-}
+} */
 .top-bar{
     background: #232222;
 }
@@ -28,7 +28,7 @@ body{
     color: white;
 }
 
-.nav-bar__logo img {
+/* .nav-bar__logo img {
     content: url(https://e7.pngegg.com/pngimages/708/235/png-clipart-digital-marketing-search-engine-optimization-advertising-social-media-web-design-ais-web-design-search-engine-optimization.png);
 }
 
@@ -38,4 +38,4 @@ body{
 
 .login .argo__logo {
     background-image: url(https://e7.pngegg.com/pngimages/708/235/png-clipart-digital-marketing-search-engine-optimization-advertising-social-media-web-design-ais-web-design-search-engine-optimization.png);
-}
+} */
