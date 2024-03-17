@@ -1,6 +1,14 @@
-.sidebar__logo span {
+/* .sidebar__logo span {
   display: none;
 }
 .sidebar__logo:after {
   content: 'Customized Text';
+} */
+.login__logo img.logo-image {
+  display: none
+}
+.login__logo {
+    background-size: 100px 50px;
+    background-image: url(assets/images/argo_o.svg);
+    height: 50px;
 }
